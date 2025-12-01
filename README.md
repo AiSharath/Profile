@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to collab
 
 ## 🚀 About Me
 
-- 🧑‍💻 Software Developer | Open-Source Enthusiast
+- 🧑‍💻 Student | Open-Source Enthusiast
 - 🌱 Currently learning: **MERN Stack Development (MongoDB, Express.js, React, Node.js)**
 - 💬 Ask me about: MERN Stack fundamentals, getting started with web development, beginner Java
 - 🛠️ Tools & Languages:  
